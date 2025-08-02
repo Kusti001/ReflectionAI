@@ -1,6 +1,6 @@
 daily
 dailyLogs
-.DS_Store
+
 
 # Django #
 *.log
